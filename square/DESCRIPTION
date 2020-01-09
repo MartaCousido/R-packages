@@ -1,0 +1,11 @@
+Package: square
+Type: Package
+Title: Square a number
+Version: 0.1.0
+Author: Marta Cousido [aut, cre]
+Maintainer: Marta Cousido Rocha <marta.cousido@ieo.es>
+Description: The package allow to compute the square of a number.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
